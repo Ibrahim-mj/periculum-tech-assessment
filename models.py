@@ -40,3 +40,5 @@ class Inventory:
             "source_style_area": self.source_style_area,
             "value": self.value,
         }
+
+    

@@ -30,10 +30,10 @@
         {
             "purchase_date": "2019-03-03T00:00:00",
             "serial_number": "HRIS4LI8",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room LED",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1603.37
@@ -52,10 +52,10 @@
         {
             "purchase_date": "2020-01-06T00:00:00",
             "serial_number": "R08QDU0S",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Classic"
             },
             "value": 1546.39
@@ -85,10 +85,10 @@
         {
             "purchase_date": "2017-04-07T00:00:00",
             "serial_number": "RB93WPTH",
-            "description": "Home",
+            "description": "Set Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Tool Set",
+                "area": "Bedroom Tool",
                 "style": "Classic"
             },
             "value": 1421.38
@@ -140,10 +140,10 @@
         {
             "purchase_date": "2022-09-23T00:00:00",
             "serial_number": "5EXQQOB1",
-            "description": "Best",
+            "description": "Table Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office Dining Table",
+                "area": "Office Dining",
                 "style": "Modern"
             },
             "value": 1686.96
@@ -217,10 +217,10 @@
         {
             "purchase_date": "2015-12-12T00:00:00",
             "serial_number": "F7IKU0DS",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office LED TV",
+                "area": "Office LED",
                 "style": "Classic"
             },
             "value": 541.69
@@ -228,10 +228,10 @@
         {
             "purchase_date": "2017-07-22T00:00:00",
             "serial_number": "8HCSY97G",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room LED",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1851.93
@@ -250,10 +250,10 @@
         {
             "purchase_date": "2017-07-25T00:00:00",
             "serial_number": "3BTI1E79",
-            "description": "Best",
+            "description": "Stand Mixer Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Living Room Stand Mixer",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1734.69
@@ -261,10 +261,10 @@
         {
             "purchase_date": "2016-03-08T00:00:00",
             "serial_number": "7RBCLH8X",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Classic"
             },
             "value": 1351.2
@@ -272,10 +272,10 @@
         {
             "purchase_date": "2020-03-03T00:00:00",
             "serial_number": "W5I85PVW",
-            "description": "Home",
+            "description": "Table Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Dining Table",
+                "area": "Bedroom Dining",
                 "style": "Premium"
             },
             "value": 148.41
@@ -294,10 +294,10 @@
         {
             "purchase_date": "2020-05-16T00:00:00",
             "serial_number": "GQPBD9OJ",
-            "description": "Best",
+            "description": "Dining Table Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Living Room Dining Table",
+                "area": "Living Room",
                 "style": "Modern"
             },
             "value": 974.74
@@ -327,10 +327,10 @@
         {
             "purchase_date": "2018-09-15T00:00:00",
             "serial_number": "QDD9Q659",
-            "description": "Best",
+            "description": "LED TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Modern"
             },
             "value": 1072.67
@@ -349,10 +349,10 @@
         {
             "purchase_date": "2019-11-15T00:00:00",
             "serial_number": "GZFM295X",
-            "description": "Best",
+            "description": "Set Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Kitchen Tool Set",
+                "area": "Kitchen Tool",
                 "style": "Compact"
             },
             "value": 1801.21
@@ -360,10 +360,10 @@
         {
             "purchase_date": "2025-02-15T00:00:00",
             "serial_number": "20SQB8Q2",
-            "description": "Table",
+            "description": "Dining Table",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room Dining",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 284.67
@@ -371,10 +371,10 @@
         {
             "purchase_date": "2021-03-18T00:00:00",
             "serial_number": "XM9K7QGA",
-            "description": "Best",
+            "description": "LED TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 989.14
@@ -448,10 +448,10 @@
         {
             "purchase_date": "2019-03-03T00:00:00",
             "serial_number": "HRIS4LI8",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room LED",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1603.37
@@ -470,10 +470,10 @@
         {
             "purchase_date": "2020-01-06T00:00:00",
             "serial_number": "R08QDU0S",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Classic"
             },
             "value": 1546.39
@@ -503,10 +503,10 @@
         {
             "purchase_date": "2017-04-07T00:00:00",
             "serial_number": "RB93WPTH",
-            "description": "Home",
+            "description": "Set Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Tool Set",
+                "area": "Bedroom Tool",
                 "style": "Classic"
             },
             "value": 1421.38
@@ -558,10 +558,10 @@
         {
             "purchase_date": "2022-09-23T00:00:00",
             "serial_number": "5EXQQOB1",
-            "description": "Best",
+            "description": "Table Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office Dining Table",
+                "area": "Office Dining",
                 "style": "Modern"
             },
             "value": 1686.96
@@ -635,10 +635,10 @@
         {
             "purchase_date": "2015-12-12T00:00:00",
             "serial_number": "F7IKU0DS",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office LED TV",
+                "area": "Office LED",
                 "style": "Classic"
             },
             "value": 541.69
@@ -646,10 +646,10 @@
         {
             "purchase_date": "2017-07-22T00:00:00",
             "serial_number": "8HCSY97G",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room LED",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1851.93
@@ -668,10 +668,10 @@
         {
             "purchase_date": "2017-07-25T00:00:00",
             "serial_number": "3BTI1E79",
-            "description": "Best",
+            "description": "Stand Mixer Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Living Room Stand Mixer",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1734.69
@@ -679,10 +679,10 @@
         {
             "purchase_date": "2016-03-08T00:00:00",
             "serial_number": "7RBCLH8X",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Classic"
             },
             "value": 1351.2
@@ -690,10 +690,10 @@
         {
             "purchase_date": "2020-03-03T00:00:00",
             "serial_number": "W5I85PVW",
-            "description": "Home",
+            "description": "Table Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Dining Table",
+                "area": "Bedroom Dining",
                 "style": "Premium"
             },
             "value": 148.41
@@ -712,10 +712,10 @@
         {
             "purchase_date": "2020-05-16T00:00:00",
             "serial_number": "GQPBD9OJ",
-            "description": "Best",
+            "description": "Dining Table Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Living Room Dining Table",
+                "area": "Living Room",
                 "style": "Modern"
             },
             "value": 974.74
@@ -745,10 +745,10 @@
         {
             "purchase_date": "2018-09-15T00:00:00",
             "serial_number": "QDD9Q659",
-            "description": "Best",
+            "description": "LED TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Modern"
             },
             "value": 1072.67
@@ -767,10 +767,10 @@
         {
             "purchase_date": "2019-11-15T00:00:00",
             "serial_number": "GZFM295X",
-            "description": "Best",
+            "description": "Set Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Kitchen Tool Set",
+                "area": "Kitchen Tool",
                 "style": "Compact"
             },
             "value": 1801.21
@@ -778,10 +778,10 @@
         {
             "purchase_date": "2025-02-15T00:00:00",
             "serial_number": "20SQB8Q2",
-            "description": "Table",
+            "description": "Dining Table",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room Dining",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 284.67
@@ -789,10 +789,10 @@
         {
             "purchase_date": "2021-03-18T00:00:00",
             "serial_number": "XM9K7QGA",
-            "description": "Best",
+            "description": "LED TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 989.14
@@ -877,10 +877,10 @@
         {
             "purchase_date": "2024-12-02T00:00:00",
             "serial_number": "5SDT2DDH",
-            "description": "Home",
+            "description": "Dining Table Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Living Room Dining Table",
+                "area": "Living Room",
                 "style": "Modern"
             },
             "value": 1069.33
@@ -888,10 +888,10 @@
         {
             "purchase_date": "2021-12-31T00:00:00",
             "serial_number": "GQYFK6DI",
-            "description": "Home",
+            "description": "LED TV Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Living Room LED TV",
+                "area": "Living Room",
                 "style": "Compact"
             },
             "value": 1722.17
@@ -899,10 +899,10 @@
         {
             "purchase_date": "2018-08-19T00:00:00",
             "serial_number": "0L6NWX6I",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room Tool",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 1070.79
@@ -998,10 +998,10 @@
         {
             "purchase_date": "2022-11-24T00:00:00",
             "serial_number": "90IVJLBV",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Bedroom LED TV",
+                "area": "Bedroom LED",
                 "style": "Modern"
             },
             "value": 1540.82
@@ -1020,10 +1020,10 @@
         {
             "purchase_date": "2016-05-18T00:00:00",
             "serial_number": "CDTEHXP4",
-            "description": "Table",
+            "description": "Dining Table",
             "source_style_area": {
                 "source": "Wayfair",
-                "area": "Dining Room Dining",
+                "area": "Dining Room",
                 "style": "Premium"
             },
             "value": 214.22
@@ -1053,10 +1053,10 @@
         {
             "purchase_date": "2025-10-10T00:00:00",
             "serial_number": "24K5YVA6",
-            "description": "Table",
+            "description": "Dining Table",
             "source_style_area": {
                 "source": "Walmart",
-                "area": "Dining Room Dining",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 1480.14
@@ -1064,10 +1064,10 @@
         {
             "purchase_date": "2025-10-17T00:00:00",
             "serial_number": "O25XJTTZ",
-            "description": "Best",
+            "description": "LED TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 1752.55
@@ -1075,10 +1075,10 @@
         {
             "purchase_date": "2021-05-22T00:00:00",
             "serial_number": "52DKP5S8",
-            "description": "Home",
+            "description": "Stand Mixer Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Living Room Stand Mixer",
+                "area": "Living Room",
                 "style": "Classic"
             },
             "value": 494.35
@@ -1196,10 +1196,10 @@
         {
             "purchase_date": "2021-11-02T00:00:00",
             "serial_number": "SNXG9HAZ",
-            "description": "Home",
+            "description": "Stand Mixer Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Living Room Stand Mixer",
+                "area": "Living Room",
                 "style": "Modern"
             },
             "value": 1287.57
@@ -1207,10 +1207,10 @@
         {
             "purchase_date": "2023-08-18T00:00:00",
             "serial_number": "NBF3C3UK",
-            "description": "Mixer",
+            "description": "Stand Mixer",
             "source_style_area": {
                 "source": "Walmart",
-                "area": "Living Room Stand",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 88.8
@@ -1240,10 +1240,10 @@
         {
             "purchase_date": "2020-02-24T00:00:00",
             "serial_number": "47CEOIYC",
-            "description": "Best",
+            "description": "Set Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Garage Tool Set",
+                "area": "Garage Tool",
                 "style": "Modern"
             },
             "value": 1227.18
@@ -1262,10 +1262,10 @@
         {
             "purchase_date": "2023-02-08T00:00:00",
             "serial_number": "59HTZVC7",
-            "description": "Home",
+            "description": "Stand Mixer Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Dining Room Stand Mixer ",
+                "area": "Dining Room",
                 "style": "Premium"
             },
             "value": 443.69
@@ -1295,10 +1295,10 @@
         {
             "purchase_date": "2017-10-11T00:00:00",
             "serial_number": "74MDGHEV",
-            "description": "Home",
+            "description": "Set Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Office Tool Set",
+                "area": "Office Tool",
                 "style": "Classic"
             },
             "value": 359.33
@@ -1306,10 +1306,10 @@
         {
             "purchase_date": "2024-01-23T00:00:00",
             "serial_number": "4DFZ4S7S",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Compact"
             },
             "value": 1383.34
@@ -1339,10 +1339,10 @@
         {
             "purchase_date": "2021-11-22T00:00:00",
             "serial_number": "HEGMBQY3",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Walmart",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Compact"
             },
             "value": 1325.53
@@ -1350,10 +1350,10 @@
         {
             "purchase_date": "2018-03-12T00:00:00",
             "serial_number": "U5I6T0TB",
-            "description": "Home",
+            "description": "Set Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Tool Set",
+                "area": "Bedroom Tool",
                 "style": "Compact"
             },
             "value": 791.4
@@ -1361,10 +1361,10 @@
         {
             "purchase_date": "2022-09-21T00:00:00",
             "serial_number": "2A4RRKT4",
-            "description": "Home",
+            "description": "Stand Mixer Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Dining Room Stand Mixer ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 1676.31
@@ -1405,10 +1405,10 @@
         {
             "purchase_date": "2017-04-22T00:00:00",
             "serial_number": "DCATHJ3H",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Wayfair",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1576.72
@@ -1427,10 +1427,10 @@
         {
             "purchase_date": "2022-10-09T00:00:00",
             "serial_number": "JLKFBBS5",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room LED",
+                "area": "Dining Room",
                 "style": "Premium"
             },
             "value": 239.32
@@ -1449,10 +1449,10 @@
         {
             "purchase_date": "2021-11-29T00:00:00",
             "serial_number": "WEVV8O3R",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Wayfair",
-                "area": "Dining Room LED",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 606.26
@@ -1460,10 +1460,10 @@
         {
             "purchase_date": "2020-11-23T00:00:00",
             "serial_number": "ENVSPMO9",
-            "description": "Table",
+            "description": "Dining Table",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room Dining",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 515.32
@@ -1471,10 +1471,10 @@
         {
             "purchase_date": "2018-12-04T00:00:00",
             "serial_number": "MZ2LZRV5",
-            "description": "Best",
+            "description": "Stand Mixer Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room Stand Mixer ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 638.99
@@ -1482,10 +1482,10 @@
         {
             "purchase_date": "2017-10-27T00:00:00",
             "serial_number": "7K0G5I95",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Bedroom LED TV",
+                "area": "Bedroom LED",
                 "style": "Modern"
             },
             "value": 1677.74
@@ -1515,10 +1515,10 @@
         {
             "purchase_date": "2021-09-21T00:00:00",
             "serial_number": "55DBVC6I",
-            "description": "Best",
+            "description": "Set Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Bedroom Tool Set",
+                "area": "Bedroom Tool",
                 "style": "Modern"
             },
             "value": 1464.33
@@ -1537,10 +1537,10 @@
         {
             "purchase_date": "2017-01-04T00:00:00",
             "serial_number": "9OX4W1DP",
-            "description": "Home",
+            "description": "LED TV Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Dining Room LED TV ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 865.35
@@ -1548,10 +1548,10 @@
         {
             "purchase_date": "2017-08-04T00:00:00",
             "serial_number": "08RQPP9E",
-            "description": "Home",
+            "description": "Dining Table Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Dining Room Dining Table ",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 1513.78
@@ -1559,10 +1559,10 @@
         {
             "purchase_date": "2018-10-22T00:00:00",
             "serial_number": "BHQOC2AK",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office LED TV",
+                "area": "Office LED",
                 "style": "Compact"
             },
             "value": 1156.85
@@ -1581,10 +1581,10 @@
         {
             "purchase_date": "2017-04-20T00:00:00",
             "serial_number": "828ZXE71",
-            "description": "Mixer",
+            "description": "Stand Mixer",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room Stand",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 1129.03
@@ -1592,10 +1592,10 @@
         {
             "purchase_date": "2022-01-02T00:00:00",
             "serial_number": "K0M9NKF5",
-            "description": "Home",
+            "description": "Table Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Bedroom Dining Table",
+                "area": "Bedroom Dining",
                 "style": "Classic"
             },
             "value": 406.7
@@ -1625,10 +1625,10 @@
         {
             "purchase_date": "2020-06-12T00:00:00",
             "serial_number": "E6DYBIWE",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Dining Room LED",
+                "area": "Dining Room",
                 "style": "Modern"
             },
             "value": 1461.72
@@ -1647,10 +1647,10 @@
         {
             "purchase_date": "2021-12-11T00:00:00",
             "serial_number": "LBS7UPM6",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Bedroom LED TV",
+                "area": "Bedroom LED",
                 "style": "Modern"
             },
             "value": 803.25
@@ -1669,10 +1669,10 @@
         {
             "purchase_date": "2019-04-13T00:00:00",
             "serial_number": "NQKV79JA",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1750.27
@@ -1680,10 +1680,10 @@
         {
             "purchase_date": "2015-05-13T00:00:00",
             "serial_number": "P0ZY0J5A",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Garage LED TV",
+                "area": "Garage LED",
                 "style": "Compact"
             },
             "value": 601.5
@@ -1691,10 +1691,10 @@
         {
             "purchase_date": "2025-03-15T00:00:00",
             "serial_number": "U0EGB2H1",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Office LED TV",
+                "area": "Office LED",
                 "style": "Premium"
             },
             "value": 1624.11
@@ -1702,10 +1702,10 @@
         {
             "purchase_date": "2017-03-20T00:00:00",
             "serial_number": "T96GB8RE",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Walmart",
-                "area": "Living Room Tool",
+                "area": "Living Room",
                 "style": "Premium"
             },
             "value": 1873.35
@@ -1757,10 +1757,10 @@
         {
             "purchase_date": "2018-12-01T00:00:00",
             "serial_number": "2CH0K64T",
-            "description": "Set",
+            "description": "Tool Set",
             "source_style_area": {
                 "source": "Walmart",
-                "area": "Dining Room Tool",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 1247.92
@@ -1768,10 +1768,10 @@
         {
             "purchase_date": "2019-08-29T00:00:00",
             "serial_number": "HYMC4KDB",
-            "description": "Mixer",
+            "description": "Stand Mixer",
             "source_style_area": {
                 "source": "Target",
-                "area": "Living Room Stand",
+                "area": "Living Room",
                 "style": "Compact"
             },
             "value": 179.1
@@ -1801,10 +1801,10 @@
         {
             "purchase_date": "2023-09-06T00:00:00",
             "serial_number": "LE7WASLW",
-            "description": "TV",
+            "description": "LED TV",
             "source_style_area": {
                 "source": "Amazon",
-                "area": "Living Room LED",
+                "area": "Living Room",
                 "style": "Compact"
             },
             "value": 1227.77
@@ -1823,10 +1823,10 @@
         {
             "purchase_date": "2019-07-02T00:00:00",
             "serial_number": "JMJI7NSB",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Bedroom LED TV",
+                "area": "Bedroom LED",
                 "style": "Classic"
             },
             "value": 417.1
@@ -1834,10 +1834,10 @@
         {
             "purchase_date": "2016-07-06T00:00:00",
             "serial_number": "R1FEM8QE",
-            "description": "Best",
+            "description": "Stand Mixer Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Dining Room Stand Mixer ",
+                "area": "Dining Room",
                 "style": "Classic"
             },
             "value": 601.05
@@ -1856,10 +1856,10 @@
         {
             "purchase_date": "2015-05-04T00:00:00",
             "serial_number": "X89Z8FCM",
-            "description": "Home",
+            "description": "Tool Set Home",
             "source_style_area": {
                 "source": "Depot",
-                "area": "Dining Room Tool Set ",
+                "area": "Dining Room",
                 "style": "Compact"
             },
             "value": 1632.71
@@ -1867,10 +1867,10 @@
         {
             "purchase_date": "2023-11-15T00:00:00",
             "serial_number": "MFRHLN1W",
-            "description": "Best",
+            "description": "TV Best",
             "source_style_area": {
                 "source": "Buy",
-                "area": "Kitchen LED TV",
+                "area": "Kitchen LED",
                 "style": "Premium"
             },
             "value": 503.93

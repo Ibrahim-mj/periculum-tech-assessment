@@ -6,6 +6,7 @@ def main():
     # Path to the PDF file
     file_path = "home_inventory.pdf"
     extracted_data = extract_data_from_pdf(file_path)
+    print(extracted_data)
 
     aligned_content = align_content(extracted_data)
 

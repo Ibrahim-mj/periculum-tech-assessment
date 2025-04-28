@@ -39,7 +39,7 @@ def extract_data_from_pdf(file_path: str) -> list:
             else:
                 print(f"No tables found on page {count + 1}, extracting with camelot")
                 tables = camelot.read_pdf(
-                    "home_inventory.pdf", pages=str(count + 1), flavor="stream"
+                    "home_inventory.pdf", pages=str(count + 1), flavor="stream", columns=['70, 180, 300, 400, 500, 600, 700']
                 )
                 if len(tables) > 0:
                     print(f"Tables found on page {count + 1}:{len(tables)}")
@@ -109,14 +109,18 @@ def extract_data(aligned_content: str) -> dict:
 
     inventory_list = []
 
+    area = None
+    item_description = None
+
     for item in match:
+        area, description = resolve_area_description(item[1], item[2]) # To resolve the overlap in the two columns
         inventory_item = Inventory(
             purchase_date=item[4].strip(),
             serial_number=item[6].strip(),
-            description=item[2].strip(),
+            description=description,
             source_style_area={
                 "source": item[3],
-                "area": item[1],
+                "area": area,
                 "style": item[5],
             }, # not sure if this is the expected format or not. Could be like this too: {f"{item[3]}_{item[1]}_{item[5]}"}
             value=float(item[7].replace(",", "")), # not sure if I should include the '$' sign or not.
@@ -127,3 +131,16 @@ def extract_data(aligned_content: str) -> dict:
         "owner_info": owner_info.to_dict(),
         "data": [inv.to_dict() for inv in inventory_list],
     }
+
+# Turned out that this only helped with few, It does not only happen when the 'area' has two words.
+def resolve_area_description(area, description):
+    """
+    Since Camelot in 'flavor=stream' splits column based on the relative distance of the words,
+    The 'area' and 'item description' columns overlap whenever the 'area' has two words.
+    I do not know how to resolve that yet but I believe this is a temporary solution.
+    """
+    area_list = area.split()
+    if len(area_list) > 2:
+        area = area_list[0] + " " + area_list[1]
+        description = " ".join(area_list[2:]) + " " + description
+    return area.strip(), description.strip()
