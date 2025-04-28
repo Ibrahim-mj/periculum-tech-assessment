@@ -1,0 +1,1879 @@
+{
+    "owner_info": {
+        "owner_name": "John Doe",
+        "owner_address": "123 Maple Street",
+        "owner_telephone": "(503) 555-1234"
+    },
+    "data": [
+        {
+            "purchase_date": "2018-06-07T00:00:00",
+            "serial_number": "6DDZ7S36",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room",
+                "style": "Premium"
+            },
+            "value": 846.59
+        },
+        {
+            "purchase_date": "2015-05-31T00:00:00",
+            "serial_number": "NJEZ3OPO",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Classic"
+            },
+            "value": 382.04
+        },
+        {
+            "purchase_date": "2019-03-03T00:00:00",
+            "serial_number": "HRIS4LI8",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room LED",
+                "style": "Premium"
+            },
+            "value": 1603.37
+        },
+        {
+            "purchase_date": "2023-03-26T00:00:00",
+            "serial_number": "2HLNMD64",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Dining",
+                "style": "Modern"
+            },
+            "value": 552.74
+        },
+        {
+            "purchase_date": "2020-01-06T00:00:00",
+            "serial_number": "R08QDU0S",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room Tool",
+                "style": "Classic"
+            },
+            "value": 1546.39
+        },
+        {
+            "purchase_date": "2015-04-03T00:00:00",
+            "serial_number": "GSABG41R",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office LED",
+                "style": "Classic"
+            },
+            "value": 1319.36
+        },
+        {
+            "purchase_date": "2022-02-28T00:00:00",
+            "serial_number": "DVTMS64O",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office",
+                "style": "Premium"
+            },
+            "value": 573.1
+        },
+        {
+            "purchase_date": "2017-04-07T00:00:00",
+            "serial_number": "RB93WPTH",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Tool Set",
+                "style": "Classic"
+            },
+            "value": 1421.38
+        },
+        {
+            "purchase_date": "2017-03-20T00:00:00",
+            "serial_number": "7RX8YNW9",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Dining Room",
+                "style": "Compact"
+            },
+            "value": 1760.11
+        },
+        {
+            "purchase_date": "2019-06-30T00:00:00",
+            "serial_number": "US1B0BQI",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room",
+                "style": "Classic"
+            },
+            "value": 941.43
+        },
+        {
+            "purchase_date": "2016-02-09T00:00:00",
+            "serial_number": "1J7088BO",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Dining",
+                "style": "Compact"
+            },
+            "value": 71.12
+        },
+        {
+            "purchase_date": "2025-08-21T00:00:00",
+            "serial_number": "GVJFQYT1",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Desk",
+                "style": "Modern"
+            },
+            "value": 841.41
+        },
+        {
+            "purchase_date": "2022-09-23T00:00:00",
+            "serial_number": "5EXQQOB1",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office Dining Table",
+                "style": "Modern"
+            },
+            "value": 1686.96
+        },
+        {
+            "purchase_date": "2017-04-07T00:00:00",
+            "serial_number": "QZY31U1R",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen Dining",
+                "style": "Premium"
+            },
+            "value": 1457.39
+        },
+        {
+            "purchase_date": "2024-05-28T00:00:00",
+            "serial_number": "D4FYUJ8E",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Garage Mattress",
+                "style": "Classic"
+            },
+            "value": 182.96
+        },
+        {
+            "purchase_date": "2023-08-13T00:00:00",
+            "serial_number": "KO6MGEIY",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Premium"
+            },
+            "value": 127.0
+        },
+        {
+            "purchase_date": "2022-07-12T00:00:00",
+            "serial_number": "X7QIEB5T",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen Tool",
+                "style": "Premium"
+            },
+            "value": 1457.28
+        },
+        {
+            "purchase_date": "2024-08-27T00:00:00",
+            "serial_number": "BI1UXOJ9",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage",
+                "style": "Compact"
+            },
+            "value": 103.48
+        },
+        {
+            "purchase_date": "2023-10-13T00:00:00",
+            "serial_number": "4GEV5RRW",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Classic"
+            },
+            "value": 403.55
+        },
+        {
+            "purchase_date": "2015-12-12T00:00:00",
+            "serial_number": "F7IKU0DS",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office LED TV",
+                "style": "Classic"
+            },
+            "value": 541.69
+        },
+        {
+            "purchase_date": "2017-07-22T00:00:00",
+            "serial_number": "8HCSY97G",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room LED",
+                "style": "Premium"
+            },
+            "value": 1851.93
+        },
+        {
+            "purchase_date": "2024-05-30T00:00:00",
+            "serial_number": "WOWMB806",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Tool",
+                "style": "Premium"
+            },
+            "value": 795.76
+        },
+        {
+            "purchase_date": "2017-07-25T00:00:00",
+            "serial_number": "3BTI1E79",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Living Room Stand Mixer",
+                "style": "Premium"
+            },
+            "value": 1734.69
+        },
+        {
+            "purchase_date": "2016-03-08T00:00:00",
+            "serial_number": "7RBCLH8X",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room Tool",
+                "style": "Classic"
+            },
+            "value": 1351.2
+        },
+        {
+            "purchase_date": "2020-03-03T00:00:00",
+            "serial_number": "W5I85PVW",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Dining Table",
+                "style": "Premium"
+            },
+            "value": 148.41
+        },
+        {
+            "purchase_date": "2021-11-25T00:00:00",
+            "serial_number": "YJHBPF1G",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room",
+                "style": "Premium"
+            },
+            "value": 1896.32
+        },
+        {
+            "purchase_date": "2020-05-16T00:00:00",
+            "serial_number": "GQPBD9OJ",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Living Room Dining Table",
+                "style": "Modern"
+            },
+            "value": 974.74
+        },
+        {
+            "purchase_date": "2017-02-03T00:00:00",
+            "serial_number": "7WGHYRKQ",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Tool",
+                "style": "Classic"
+            },
+            "value": 1293.36
+        },
+        {
+            "purchase_date": "2025-09-10T00:00:00",
+            "serial_number": "14TNDRC5",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage",
+                "style": "Modern"
+            },
+            "value": 859.33
+        },
+        {
+            "purchase_date": "2018-09-15T00:00:00",
+            "serial_number": "QDD9Q659",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room LED TV ",
+                "style": "Modern"
+            },
+            "value": 1072.67
+        },
+        {
+            "purchase_date": "2024-11-05T00:00:00",
+            "serial_number": "DXW026Z7",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Bedroom LED",
+                "style": "Compact"
+            },
+            "value": 129.39
+        },
+        {
+            "purchase_date": "2019-11-15T00:00:00",
+            "serial_number": "GZFM295X",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Kitchen Tool Set",
+                "style": "Compact"
+            },
+            "value": 1801.21
+        },
+        {
+            "purchase_date": "2025-02-15T00:00:00",
+            "serial_number": "20SQB8Q2",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room Dining",
+                "style": "Classic"
+            },
+            "value": 284.67
+        },
+        {
+            "purchase_date": "2021-03-18T00:00:00",
+            "serial_number": "XM9K7QGA",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room LED TV ",
+                "style": "Compact"
+            },
+            "value": 989.14
+        },
+        {
+            "purchase_date": "2021-09-06T00:00:00",
+            "serial_number": "LAFHPEDJ",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Kitchen LED",
+                "style": "Classic"
+            },
+            "value": 1009.04
+        },
+        {
+            "purchase_date": "2021-12-17T00:00:00",
+            "serial_number": "ZR30ULCG",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Premium"
+            },
+            "value": 198.69
+        },
+        {
+            "purchase_date": "2022-12-09T00:00:00",
+            "serial_number": "LSCM9SW9",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen",
+                "style": "Classic"
+            },
+            "value": 636.68
+        },
+        {
+            "purchase_date": "2020-10-22T00:00:00",
+            "serial_number": "AJBJT7EX",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen",
+                "style": "Premium"
+            },
+            "value": 1640.52
+        },
+        {
+            "purchase_date": "2018-06-07T00:00:00",
+            "serial_number": "6DDZ7S36",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room",
+                "style": "Premium"
+            },
+            "value": 846.59
+        },
+        {
+            "purchase_date": "2015-05-31T00:00:00",
+            "serial_number": "NJEZ3OPO",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Classic"
+            },
+            "value": 382.04
+        },
+        {
+            "purchase_date": "2019-03-03T00:00:00",
+            "serial_number": "HRIS4LI8",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room LED",
+                "style": "Premium"
+            },
+            "value": 1603.37
+        },
+        {
+            "purchase_date": "2023-03-26T00:00:00",
+            "serial_number": "2HLNMD64",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Dining",
+                "style": "Modern"
+            },
+            "value": 552.74
+        },
+        {
+            "purchase_date": "2020-01-06T00:00:00",
+            "serial_number": "R08QDU0S",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room Tool",
+                "style": "Classic"
+            },
+            "value": 1546.39
+        },
+        {
+            "purchase_date": "2015-04-03T00:00:00",
+            "serial_number": "GSABG41R",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office LED",
+                "style": "Classic"
+            },
+            "value": 1319.36
+        },
+        {
+            "purchase_date": "2022-02-28T00:00:00",
+            "serial_number": "DVTMS64O",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office",
+                "style": "Premium"
+            },
+            "value": 573.1
+        },
+        {
+            "purchase_date": "2017-04-07T00:00:00",
+            "serial_number": "RB93WPTH",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Tool Set",
+                "style": "Classic"
+            },
+            "value": 1421.38
+        },
+        {
+            "purchase_date": "2017-03-20T00:00:00",
+            "serial_number": "7RX8YNW9",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Dining Room",
+                "style": "Compact"
+            },
+            "value": 1760.11
+        },
+        {
+            "purchase_date": "2019-06-30T00:00:00",
+            "serial_number": "US1B0BQI",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room",
+                "style": "Classic"
+            },
+            "value": 941.43
+        },
+        {
+            "purchase_date": "2016-02-09T00:00:00",
+            "serial_number": "1J7088BO",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Dining",
+                "style": "Compact"
+            },
+            "value": 71.12
+        },
+        {
+            "purchase_date": "2025-08-21T00:00:00",
+            "serial_number": "GVJFQYT1",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Desk",
+                "style": "Modern"
+            },
+            "value": 841.41
+        },
+        {
+            "purchase_date": "2022-09-23T00:00:00",
+            "serial_number": "5EXQQOB1",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office Dining Table",
+                "style": "Modern"
+            },
+            "value": 1686.96
+        },
+        {
+            "purchase_date": "2017-04-07T00:00:00",
+            "serial_number": "QZY31U1R",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen Dining",
+                "style": "Premium"
+            },
+            "value": 1457.39
+        },
+        {
+            "purchase_date": "2024-05-28T00:00:00",
+            "serial_number": "D4FYUJ8E",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Garage Mattress",
+                "style": "Classic"
+            },
+            "value": 182.96
+        },
+        {
+            "purchase_date": "2023-08-13T00:00:00",
+            "serial_number": "KO6MGEIY",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Premium"
+            },
+            "value": 127.0
+        },
+        {
+            "purchase_date": "2022-07-12T00:00:00",
+            "serial_number": "X7QIEB5T",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen Tool",
+                "style": "Premium"
+            },
+            "value": 1457.28
+        },
+        {
+            "purchase_date": "2024-08-27T00:00:00",
+            "serial_number": "BI1UXOJ9",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage",
+                "style": "Compact"
+            },
+            "value": 103.48
+        },
+        {
+            "purchase_date": "2023-10-13T00:00:00",
+            "serial_number": "4GEV5RRW",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Classic"
+            },
+            "value": 403.55
+        },
+        {
+            "purchase_date": "2015-12-12T00:00:00",
+            "serial_number": "F7IKU0DS",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office LED TV",
+                "style": "Classic"
+            },
+            "value": 541.69
+        },
+        {
+            "purchase_date": "2017-07-22T00:00:00",
+            "serial_number": "8HCSY97G",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room LED",
+                "style": "Premium"
+            },
+            "value": 1851.93
+        },
+        {
+            "purchase_date": "2024-05-30T00:00:00",
+            "serial_number": "WOWMB806",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Tool",
+                "style": "Premium"
+            },
+            "value": 795.76
+        },
+        {
+            "purchase_date": "2017-07-25T00:00:00",
+            "serial_number": "3BTI1E79",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Living Room Stand Mixer",
+                "style": "Premium"
+            },
+            "value": 1734.69
+        },
+        {
+            "purchase_date": "2016-03-08T00:00:00",
+            "serial_number": "7RBCLH8X",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room Tool",
+                "style": "Classic"
+            },
+            "value": 1351.2
+        },
+        {
+            "purchase_date": "2020-03-03T00:00:00",
+            "serial_number": "W5I85PVW",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Dining Table",
+                "style": "Premium"
+            },
+            "value": 148.41
+        },
+        {
+            "purchase_date": "2021-11-25T00:00:00",
+            "serial_number": "YJHBPF1G",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room",
+                "style": "Premium"
+            },
+            "value": 1896.32
+        },
+        {
+            "purchase_date": "2020-05-16T00:00:00",
+            "serial_number": "GQPBD9OJ",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Living Room Dining Table",
+                "style": "Modern"
+            },
+            "value": 974.74
+        },
+        {
+            "purchase_date": "2017-02-03T00:00:00",
+            "serial_number": "7WGHYRKQ",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Tool",
+                "style": "Classic"
+            },
+            "value": 1293.36
+        },
+        {
+            "purchase_date": "2025-09-10T00:00:00",
+            "serial_number": "14TNDRC5",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage",
+                "style": "Modern"
+            },
+            "value": 859.33
+        },
+        {
+            "purchase_date": "2018-09-15T00:00:00",
+            "serial_number": "QDD9Q659",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room LED TV ",
+                "style": "Modern"
+            },
+            "value": 1072.67
+        },
+        {
+            "purchase_date": "2024-11-05T00:00:00",
+            "serial_number": "DXW026Z7",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Bedroom LED",
+                "style": "Compact"
+            },
+            "value": 129.39
+        },
+        {
+            "purchase_date": "2019-11-15T00:00:00",
+            "serial_number": "GZFM295X",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Kitchen Tool Set",
+                "style": "Compact"
+            },
+            "value": 1801.21
+        },
+        {
+            "purchase_date": "2025-02-15T00:00:00",
+            "serial_number": "20SQB8Q2",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room Dining",
+                "style": "Classic"
+            },
+            "value": 284.67
+        },
+        {
+            "purchase_date": "2021-03-18T00:00:00",
+            "serial_number": "XM9K7QGA",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room LED TV ",
+                "style": "Compact"
+            },
+            "value": 989.14
+        },
+        {
+            "purchase_date": "2021-09-06T00:00:00",
+            "serial_number": "LAFHPEDJ",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Kitchen LED",
+                "style": "Classic"
+            },
+            "value": 1009.04
+        },
+        {
+            "purchase_date": "2021-12-17T00:00:00",
+            "serial_number": "ZR30ULCG",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Premium"
+            },
+            "value": 198.69
+        },
+        {
+            "purchase_date": "2022-12-09T00:00:00",
+            "serial_number": "LSCM9SW9",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen",
+                "style": "Classic"
+            },
+            "value": 636.68
+        },
+        {
+            "purchase_date": "2020-10-22T00:00:00",
+            "serial_number": "AJBJT7EX",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen",
+                "style": "Premium"
+            },
+            "value": 1640.52
+        },
+        {
+            "purchase_date": "2025-12-02T00:00:00",
+            "serial_number": "AZ6CAP1P",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage",
+                "style": "Premium"
+            },
+            "value": 1688.91
+        },
+        {
+            "purchase_date": "2021-08-16T00:00:00",
+            "serial_number": "9NENYCRT",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom Mattress",
+                "style": "Modern"
+            },
+            "value": 351.21
+        },
+        {
+            "purchase_date": "2023-08-08T00:00:00",
+            "serial_number": "FGWHOPBV",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Bedroom LED",
+                "style": "Modern"
+            },
+            "value": 545.7
+        },
+        {
+            "purchase_date": "2024-12-02T00:00:00",
+            "serial_number": "5SDT2DDH",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Living Room Dining Table",
+                "style": "Modern"
+            },
+            "value": 1069.33
+        },
+        {
+            "purchase_date": "2021-12-31T00:00:00",
+            "serial_number": "GQYFK6DI",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Living Room LED TV",
+                "style": "Compact"
+            },
+            "value": 1722.17
+        },
+        {
+            "purchase_date": "2018-08-19T00:00:00",
+            "serial_number": "0L6NWX6I",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room Tool",
+                "style": "Classic"
+            },
+            "value": 1070.79
+        },
+        {
+            "purchase_date": "2016-08-26T00:00:00",
+            "serial_number": "UQZLEMM1",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Office Tool",
+                "style": "Modern"
+            },
+            "value": 1869.05
+        },
+        {
+            "purchase_date": "2016-04-14T00:00:00",
+            "serial_number": "4CWTZCN4",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Office Tool",
+                "style": "Premium"
+            },
+            "value": 676.29
+        },
+        {
+            "purchase_date": "2019-10-26T00:00:00",
+            "serial_number": "NQZ5N4KF",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Bedroom Stand",
+                "style": "Compact"
+            },
+            "value": 1383.84
+        },
+        {
+            "purchase_date": "2020-02-02T00:00:00",
+            "serial_number": "6CLD1BF1",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Bedroom Tool",
+                "style": "Compact"
+            },
+            "value": 1126.46
+        },
+        {
+            "purchase_date": "2021-04-05T00:00:00",
+            "serial_number": "WZLXX57B",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Office",
+                "style": "Modern"
+            },
+            "value": 1875.8
+        },
+        {
+            "purchase_date": "2025-08-05T00:00:00",
+            "serial_number": "K4SZAM0B",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Classic"
+            },
+            "value": 1691.5
+        },
+        {
+            "purchase_date": "2019-07-21T00:00:00",
+            "serial_number": "61KZ1NEC",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Office Dining",
+                "style": "Premium"
+            },
+            "value": 181.27
+        },
+        {
+            "purchase_date": "2022-02-14T00:00:00",
+            "serial_number": "DKZRBZ17",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Bedroom Stand",
+                "style": "Classic"
+            },
+            "value": 1082.5
+        },
+        {
+            "purchase_date": "2022-11-24T00:00:00",
+            "serial_number": "90IVJLBV",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom LED TV",
+                "style": "Modern"
+            },
+            "value": 1540.82
+        },
+        {
+            "purchase_date": "2025-02-21T00:00:00",
+            "serial_number": "6D2JL5JM",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage",
+                "style": "Classic"
+            },
+            "value": 126.71
+        },
+        {
+            "purchase_date": "2016-05-18T00:00:00",
+            "serial_number": "CDTEHXP4",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room Dining",
+                "style": "Premium"
+            },
+            "value": 214.22
+        },
+        {
+            "purchase_date": "2019-08-20T00:00:00",
+            "serial_number": "NVABJVMU",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room",
+                "style": "Modern"
+            },
+            "value": 56.43
+        },
+        {
+            "purchase_date": "2020-07-03T00:00:00",
+            "serial_number": "G6DIX222",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Bedroom Tool",
+                "style": "Premium"
+            },
+            "value": 1754.68
+        },
+        {
+            "purchase_date": "2025-10-10T00:00:00",
+            "serial_number": "24K5YVA6",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Dining Room Dining",
+                "style": "Classic"
+            },
+            "value": 1480.14
+        },
+        {
+            "purchase_date": "2025-10-17T00:00:00",
+            "serial_number": "O25XJTTZ",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room LED TV ",
+                "style": "Compact"
+            },
+            "value": 1752.55
+        },
+        {
+            "purchase_date": "2021-05-22T00:00:00",
+            "serial_number": "52DKP5S8",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Living Room Stand Mixer",
+                "style": "Classic"
+            },
+            "value": 494.35
+        },
+        {
+            "purchase_date": "2022-03-13T00:00:00",
+            "serial_number": "ZGUTA8UY",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room",
+                "style": "Premium"
+            },
+            "value": 1594.36
+        },
+        {
+            "purchase_date": "2017-05-25T00:00:00",
+            "serial_number": "SXUBR4HY",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Tool",
+                "style": "Premium"
+            },
+            "value": 828.29
+        },
+        {
+            "purchase_date": "2018-09-09T00:00:00",
+            "serial_number": "48HB1W2B",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Garage LED",
+                "style": "Modern"
+            },
+            "value": 962.78
+        },
+        {
+            "purchase_date": "2021-03-14T00:00:00",
+            "serial_number": "CCOHLZAG",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Garage Mattress",
+                "style": "Premium"
+            },
+            "value": 1615.59
+        },
+        {
+            "purchase_date": "2018-12-21T00:00:00",
+            "serial_number": "991Y960E",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Bedroom Tool",
+                "style": "Classic"
+            },
+            "value": 1423.63
+        },
+        {
+            "purchase_date": "2025-02-09T00:00:00",
+            "serial_number": "7I484XUK",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Kitchen LED",
+                "style": "Premium"
+            },
+            "value": 479.91
+        },
+        {
+            "purchase_date": "2022-12-24T00:00:00",
+            "serial_number": "P3UQ5WZJ",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Garage",
+                "style": "Classic"
+            },
+            "value": 936.75
+        },
+        {
+            "purchase_date": "2017-03-07T00:00:00",
+            "serial_number": "RX9LWPCE",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Bedroom Stand",
+                "style": "Compact"
+            },
+            "value": 1832.53
+        },
+        {
+            "purchase_date": "2017-01-29T00:00:00",
+            "serial_number": "UIYI0O9B",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office LED",
+                "style": "Premium"
+            },
+            "value": 428.69
+        },
+        {
+            "purchase_date": "2025-10-12T00:00:00",
+            "serial_number": "UVCNH3UB",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Bedroom Dining",
+                "style": "Premium"
+            },
+            "value": 1104.24
+        },
+        {
+            "purchase_date": "2021-11-02T00:00:00",
+            "serial_number": "SNXG9HAZ",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Living Room Stand Mixer",
+                "style": "Modern"
+            },
+            "value": 1287.57
+        },
+        {
+            "purchase_date": "2023-08-18T00:00:00",
+            "serial_number": "NBF3C3UK",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Living Room Stand",
+                "style": "Premium"
+            },
+            "value": 88.8
+        },
+        {
+            "purchase_date": "2025-01-11T00:00:00",
+            "serial_number": "WPPV80BC",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage",
+                "style": "Premium"
+            },
+            "value": 1611.58
+        },
+        {
+            "purchase_date": "2020-07-21T00:00:00",
+            "serial_number": "WVW41IBW",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Office Dining",
+                "style": "Modern"
+            },
+            "value": 545.46
+        },
+        {
+            "purchase_date": "2020-02-24T00:00:00",
+            "serial_number": "47CEOIYC",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Garage Tool Set",
+                "style": "Modern"
+            },
+            "value": 1227.18
+        },
+        {
+            "purchase_date": "2015-12-11T00:00:00",
+            "serial_number": "DYB3CBUZ",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage Stand",
+                "style": "Premium"
+            },
+            "value": 1459.15
+        },
+        {
+            "purchase_date": "2023-02-08T00:00:00",
+            "serial_number": "59HTZVC7",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Dining Room Stand Mixer ",
+                "style": "Premium"
+            },
+            "value": 443.69
+        },
+        {
+            "purchase_date": "2020-02-10T00:00:00",
+            "serial_number": "UBRQK64K",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Office Stand",
+                "style": "Premium"
+            },
+            "value": 1751.47
+        },
+        {
+            "purchase_date": "2023-02-12T00:00:00",
+            "serial_number": "1001E8B2",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Office",
+                "style": "Compact"
+            },
+            "value": 1110.7
+        },
+        {
+            "purchase_date": "2017-10-11T00:00:00",
+            "serial_number": "74MDGHEV",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Office Tool Set",
+                "style": "Classic"
+            },
+            "value": 359.33
+        },
+        {
+            "purchase_date": "2024-01-23T00:00:00",
+            "serial_number": "4DFZ4S7S",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room Tool",
+                "style": "Compact"
+            },
+            "value": 1383.34
+        },
+        {
+            "purchase_date": "2025-12-21T00:00:00",
+            "serial_number": "2J91PY8I",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Desk",
+                "style": "Classic"
+            },
+            "value": 102.34
+        },
+        {
+            "purchase_date": "2019-01-23T00:00:00",
+            "serial_number": "IZQ6TDTE",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Office",
+                "style": "Classic"
+            },
+            "value": 1279.92
+        },
+        {
+            "purchase_date": "2021-11-22T00:00:00",
+            "serial_number": "HEGMBQY3",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Living Room Tool",
+                "style": "Compact"
+            },
+            "value": 1325.53
+        },
+        {
+            "purchase_date": "2018-03-12T00:00:00",
+            "serial_number": "U5I6T0TB",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Tool Set",
+                "style": "Compact"
+            },
+            "value": 791.4
+        },
+        {
+            "purchase_date": "2022-09-21T00:00:00",
+            "serial_number": "2A4RRKT4",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Dining Room Stand Mixer ",
+                "style": "Compact"
+            },
+            "value": 1676.31
+        },
+        {
+            "purchase_date": "2020-05-21T00:00:00",
+            "serial_number": "ELLVSI6B",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen LED",
+                "style": "Premium"
+            },
+            "value": 979.19
+        },
+        {
+            "purchase_date": "2023-03-20T00:00:00",
+            "serial_number": "WWMYJEAV",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Office",
+                "style": "Classic"
+            },
+            "value": 765.57
+        },
+        {
+            "purchase_date": "2021-04-28T00:00:00",
+            "serial_number": "E8LNBEOM",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Garage Tool",
+                "style": "Modern"
+            },
+            "value": 630.4
+        },
+        {
+            "purchase_date": "2017-04-22T00:00:00",
+            "serial_number": "DCATHJ3H",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Living Room Tool",
+                "style": "Premium"
+            },
+            "value": 1576.72
+        },
+        {
+            "purchase_date": "2021-05-31T00:00:00",
+            "serial_number": "0VA5WHK9",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen LED",
+                "style": "Classic"
+            },
+            "value": 1044.09
+        },
+        {
+            "purchase_date": "2022-10-09T00:00:00",
+            "serial_number": "JLKFBBS5",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room LED",
+                "style": "Premium"
+            },
+            "value": 239.32
+        },
+        {
+            "purchase_date": "2018-12-13T00:00:00",
+            "serial_number": "UW76JUEY",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Bedroom Tool",
+                "style": "Compact"
+            },
+            "value": 398.97
+        },
+        {
+            "purchase_date": "2021-11-29T00:00:00",
+            "serial_number": "WEVV8O3R",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room LED",
+                "style": "Compact"
+            },
+            "value": 606.26
+        },
+        {
+            "purchase_date": "2020-11-23T00:00:00",
+            "serial_number": "ENVSPMO9",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room Dining",
+                "style": "Premium"
+            },
+            "value": 515.32
+        },
+        {
+            "purchase_date": "2018-12-04T00:00:00",
+            "serial_number": "MZ2LZRV5",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room Stand Mixer ",
+                "style": "Compact"
+            },
+            "value": 638.99
+        },
+        {
+            "purchase_date": "2017-10-27T00:00:00",
+            "serial_number": "7K0G5I95",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom LED TV",
+                "style": "Modern"
+            },
+            "value": 1677.74
+        },
+        {
+            "purchase_date": "2022-01-23T00:00:00",
+            "serial_number": "MO66OFGP",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Bedroom",
+                "style": "Compact"
+            },
+            "value": 787.01
+        },
+        {
+            "purchase_date": "2017-02-10T00:00:00",
+            "serial_number": "X8RLUG3J",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Garage Tool",
+                "style": "Premium"
+            },
+            "value": 1438.51
+        },
+        {
+            "purchase_date": "2021-09-21T00:00:00",
+            "serial_number": "55DBVC6I",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom Tool Set",
+                "style": "Modern"
+            },
+            "value": 1464.33
+        },
+        {
+            "purchase_date": "2021-03-04T00:00:00",
+            "serial_number": "BQ2K5ZP6",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Office LED",
+                "style": "Premium"
+            },
+            "value": 252.71
+        },
+        {
+            "purchase_date": "2017-01-04T00:00:00",
+            "serial_number": "9OX4W1DP",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Dining Room LED TV ",
+                "style": "Compact"
+            },
+            "value": 865.35
+        },
+        {
+            "purchase_date": "2017-08-04T00:00:00",
+            "serial_number": "08RQPP9E",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Dining Room Dining Table ",
+                "style": "Classic"
+            },
+            "value": 1513.78
+        },
+        {
+            "purchase_date": "2018-10-22T00:00:00",
+            "serial_number": "BHQOC2AK",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office LED TV",
+                "style": "Compact"
+            },
+            "value": 1156.85
+        },
+        {
+            "purchase_date": "2022-10-15T00:00:00",
+            "serial_number": "27QA3NCY",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Kitchen Stand",
+                "style": "Modern"
+            },
+            "value": 511.88
+        },
+        {
+            "purchase_date": "2017-04-20T00:00:00",
+            "serial_number": "828ZXE71",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room Stand",
+                "style": "Classic"
+            },
+            "value": 1129.03
+        },
+        {
+            "purchase_date": "2022-01-02T00:00:00",
+            "serial_number": "K0M9NKF5",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Bedroom Dining Table",
+                "style": "Classic"
+            },
+            "value": 406.7
+        },
+        {
+            "purchase_date": "2019-07-13T00:00:00",
+            "serial_number": "Y2O7L2B0",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Compact"
+            },
+            "value": 1394.44
+        },
+        {
+            "purchase_date": "2024-02-07T00:00:00",
+            "serial_number": "NPS1GVZY",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen",
+                "style": "Modern"
+            },
+            "value": 1484.4
+        },
+        {
+            "purchase_date": "2020-06-12T00:00:00",
+            "serial_number": "E6DYBIWE",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Dining Room LED",
+                "style": "Modern"
+            },
+            "value": 1461.72
+        },
+        {
+            "purchase_date": "2021-01-21T00:00:00",
+            "serial_number": "ALOGE3QY",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Garage LED",
+                "style": "Compact"
+            },
+            "value": 149.29
+        },
+        {
+            "purchase_date": "2021-12-11T00:00:00",
+            "serial_number": "LBS7UPM6",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom LED TV",
+                "style": "Modern"
+            },
+            "value": 803.25
+        },
+        {
+            "purchase_date": "2019-12-06T00:00:00",
+            "serial_number": "R5YCRXSQ",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Office LED",
+                "style": "Compact"
+            },
+            "value": 1273.78
+        },
+        {
+            "purchase_date": "2019-04-13T00:00:00",
+            "serial_number": "NQKV79JA",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room Tool",
+                "style": "Premium"
+            },
+            "value": 1750.27
+        },
+        {
+            "purchase_date": "2015-05-13T00:00:00",
+            "serial_number": "P0ZY0J5A",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Garage LED TV",
+                "style": "Compact"
+            },
+            "value": 601.5
+        },
+        {
+            "purchase_date": "2025-03-15T00:00:00",
+            "serial_number": "U0EGB2H1",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Office LED TV",
+                "style": "Premium"
+            },
+            "value": 1624.11
+        },
+        {
+            "purchase_date": "2017-03-20T00:00:00",
+            "serial_number": "T96GB8RE",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Living Room Tool",
+                "style": "Premium"
+            },
+            "value": 1873.35
+        },
+        {
+            "purchase_date": "2017-09-28T00:00:00",
+            "serial_number": "IZ10KLG2",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Kitchen",
+                "style": "Premium"
+            },
+            "value": 1286.29
+        },
+        {
+            "purchase_date": "2020-10-24T00:00:00",
+            "serial_number": "EG70TSWM",
+            "description": "Desk",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Dining Room",
+                "style": "Classic"
+            },
+            "value": 1747.33
+        },
+        {
+            "purchase_date": "2020-01-15T00:00:00",
+            "serial_number": "HUGYL1UA",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Kitchen LED",
+                "style": "Compact"
+            },
+            "value": 415.92
+        },
+        {
+            "purchase_date": "2018-03-03T00:00:00",
+            "serial_number": "F17YVQ8P",
+            "description": "Table",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Garage Dining",
+                "style": "Classic"
+            },
+            "value": 528.3
+        },
+        {
+            "purchase_date": "2018-12-01T00:00:00",
+            "serial_number": "2CH0K64T",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Dining Room Tool",
+                "style": "Compact"
+            },
+            "value": 1247.92
+        },
+        {
+            "purchase_date": "2019-08-29T00:00:00",
+            "serial_number": "HYMC4KDB",
+            "description": "Mixer",
+            "source_style_area": {
+                "source": "Target",
+                "area": "Living Room Stand",
+                "style": "Compact"
+            },
+            "value": 179.1
+        },
+        {
+            "purchase_date": "2017-10-24T00:00:00",
+            "serial_number": "A15U7SL6",
+            "description": "Set",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Kitchen Tool",
+                "style": "Premium"
+            },
+            "value": 752.2
+        },
+        {
+            "purchase_date": "2015-06-01T00:00:00",
+            "serial_number": "631PVQZ8",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Wayfair",
+                "area": "Office",
+                "style": "Classic"
+            },
+            "value": 954.68
+        },
+        {
+            "purchase_date": "2023-09-06T00:00:00",
+            "serial_number": "LE7WASLW",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room LED",
+                "style": "Compact"
+            },
+            "value": 1227.77
+        },
+        {
+            "purchase_date": "2016-11-06T00:00:00",
+            "serial_number": "AE0U85VB",
+            "description": "Mattress",
+            "source_style_area": {
+                "source": "Amazon",
+                "area": "Living Room",
+                "style": "Compact"
+            },
+            "value": 181.98
+        },
+        {
+            "purchase_date": "2019-07-02T00:00:00",
+            "serial_number": "JMJI7NSB",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Bedroom LED TV",
+                "style": "Classic"
+            },
+            "value": 417.1
+        },
+        {
+            "purchase_date": "2016-07-06T00:00:00",
+            "serial_number": "R1FEM8QE",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Dining Room Stand Mixer ",
+                "style": "Classic"
+            },
+            "value": 601.05
+        },
+        {
+            "purchase_date": "2019-03-22T00:00:00",
+            "serial_number": "83FL23MO",
+            "description": "TV",
+            "source_style_area": {
+                "source": "Walmart",
+                "area": "Bedroom LED",
+                "style": "Classic"
+            },
+            "value": 609.0
+        },
+        {
+            "purchase_date": "2015-05-04T00:00:00",
+            "serial_number": "X89Z8FCM",
+            "description": "Home",
+            "source_style_area": {
+                "source": "Depot",
+                "area": "Dining Room Tool Set ",
+                "style": "Compact"
+            },
+            "value": 1632.71
+        },
+        {
+            "purchase_date": "2023-11-15T00:00:00",
+            "serial_number": "MFRHLN1W",
+            "description": "Best",
+            "source_style_area": {
+                "source": "Buy",
+                "area": "Kitchen LED TV",
+                "style": "Premium"
+            },
+            "value": 503.93
+        }
+    ]
+}
