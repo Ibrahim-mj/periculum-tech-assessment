@@ -25,21 +25,19 @@ def extract_data_from_pdf(file_path: str) -> list:
         camelot_tables = []
         count = 0
         while count < len(pages):
-            # if count == len(pages):
-            #     break
-            print("Page: ", count)
+            print("Page: ", count + 1)
             # tables = pages[count].extract_tables() # extract tables with pdfplumber
             tables = camelot.read_pdf(
                 "home_inventory.pdf", pages=str(count + 1), flavor="stream"
             )
             if len(tables) > 0:
-                print(f"Tables found on page {count + 1}:{len(tables)}")
+                print(f"Tables found on page {count + 1}: {len(tables)}")
                 for table in tables:
                     plumber_tables.append(table)
             else:
                 print(f"No tables found on page {count + 1}, extracting with camelot")
                 tables = camelot.read_pdf(
-                    "home_inventory.pdf", pages=str(count + 1), flavor="stream", columns=['70, 180, 300, 400, 500, 600, 700']
+                    "home_inventory.pdf", pages=str(count + 1), flavor="stream",
                 )
                 if len(tables) > 0:
                     print(f"Tables found on page {count + 1}:{len(tables)}")
@@ -102,7 +100,7 @@ def extract_data(aligned_content: str) -> dict:
     \s+(\d{2}/\d{2}/\d{4})
     \s+([A-Za-z]+)
     \s+([A-Z0-9]+)
-    \s*\n\$\s*([\d,]+\.\d{2})    
+    \s*\n\$\s*([\d,]+\.\d{2}) 
     """
 
     match = re.findall(pattern, aligned_content, re.VERBOSE)
